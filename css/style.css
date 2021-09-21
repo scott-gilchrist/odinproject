@@ -1,8 +1,13 @@
+* {
+    background-color: lightgray;
+}
+
 .h1 {
-    background-color: rgb(255, 255, 255);
+    
 }
 
 .body {
-    background-color: rgb(255, 255, 255);
-    font-family: monserr
+    /*background-color: rgb(255, 255, 255);*/
+    font-family: sans-serif;
+    text-align: center;
 }
